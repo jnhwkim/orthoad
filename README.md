@@ -1,5 +1,9 @@
 # Semi-Orthogonal Embedding for Efficient Unsupervised Anomaly Segmentation
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semi-orthogonal-embedding-for-efficient/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=semi-orthogonal-embedding-for-efficient)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semi-orthogonal-embedding-for-efficient/unsupervised-anomaly-detection-on-kolektorsdd)](https://paperswithcode.com/sota/unsupervised-anomaly-detection-on-kolektorsdd?p=semi-orthogonal-embedding-for-efficient)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/semi-orthogonal-embedding-for-efficient/unsupervised-anomaly-detection-on)](https://paperswithcode.com/sota/unsupervised-anomaly-detection-on?p=semi-orthogonal-embedding-for-efficient)
+
 We use the semi-orthogonal embedding for unsupervised anomaly segmentation. The multi-scale features from pre-trained CNNs are recently used for the localized Mahalanobis distances with significant performance. Here, we aim for robust approximation, cubically reducing the computational cost for the inverse of multi-dimensional covariance tensor. The proposed method achieves a new state-of-the-art with a significant margin for the MVTec AD (.942 and .982 for PRO and ROC, respectively), KolektorSDD, KolektorSDD2, and mSTC datasets.
 
 ## Requirements
