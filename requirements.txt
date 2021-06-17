@@ -1,0 +1,6 @@
+matplotlib>=3.2.1
+tqdm
+opencv-python
+scikit-image
+more_itertools
+av
