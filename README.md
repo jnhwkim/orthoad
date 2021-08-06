@@ -19,7 +19,7 @@ or
 
 ```bash
 pip install -r requirements.txt
-apt-get install libxrender1 libsm6 libglib2.0-0 libxext6  # for opencv
+apt-get install libxrender1 libsm6 libglib2.0-0 libxext6 libgl1-mesa-glx  # for opencv
 ```
 
 ### MobileNetv3
